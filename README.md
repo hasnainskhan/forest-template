@@ -396,3 +396,5 @@ Output: `dist/` folder (ready for Vercel/Netlify/static hosting)
 ## License
 
 This template is provided as-is for use in your projects.
+
+D
