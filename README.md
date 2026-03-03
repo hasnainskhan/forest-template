@@ -397,4 +397,4 @@ Output: `dist/` folder (ready for Vercel/Netlify/static hosting)
 
 This template is provided as-is for use in your projects.
 
-Developed by Hasnain Ba
+Developed by Hasnain Bab
