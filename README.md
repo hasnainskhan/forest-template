@@ -398,4 +398,4 @@ Output: `dist/` folder (ready for Vercel/Netlify/static hosting)
 This template is provided as-is for use in your projects.
 
 Developed by Hasnain Babar
-Senior Full Stack Web Deve
+Senior Full Stack Web Devel
